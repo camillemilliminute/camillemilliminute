@@ -6,6 +6,6 @@ eval();
 document;
 eval();
 eval("3 + 5");
-fot (;;) {
+for (;;) {
   alert("ffvjhrfghjffcbhfcvhfcvjhffvhtchhgvhhfvhhfvjfcbhfcvggcchhgbhh reste");
 }
